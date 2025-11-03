@@ -9,3 +9,6 @@ Proyecto de participación en competencia kaggle.
 -Juan José Patiño Castañeda                 - c.c:1000393740               - Prg: Ingeniria Industrial
 
 -Alejandro Valencia Gómez                   - c.c:1001386853               - Prg: Ingeniria Industrial
+
+
+## VIDEO SEGUNDA ENTREGA: https://www.youtube.com/watch?v=NXPgCtU8H7Q
