@@ -12,3 +12,5 @@ Proyecto de participación en competencia kaggle.
 
 
 ## VIDEO SEGUNDA ENTREGA: https://www.youtube.com/watch?v=NXPgCtU8H7Q
+
+## VIDEO ENTREGA FINAL : https://youtu.be/M0eQPsppsLY
